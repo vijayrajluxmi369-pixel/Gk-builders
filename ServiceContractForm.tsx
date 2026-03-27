@@ -450,7 +450,7 @@ export default function ServiceContractForm() {
                 name="projectDescription"
                 value={formData.projectDescription}
                 onChange={handleChange}
-                placeholder={t('form.placeholder.description')}r project in detail..."
+                placeholder={t('form.placeholder.description')}
                 rows={4}
                 className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:outline-none focus:border-primary transition-colors resize-none"
               ></textarea>
